@@ -24,13 +24,13 @@
 /* ------ THEMING - Dark Mode ------ */
 @media (prefers-color-scheme: dark) {
 	:root {
-		--palette-primary: #20bdff;
+		--palette-primary: #5CE1E6;
 
 		--text: #d2d3d7;
 		--text: #d4d4d8;
 		--text-muted: #d2d3d7;
 		--text-heading: #fafafa;
-		--text-link: #20bdff;
+		--text-link: #5CE1E6;
 
 		--code-text: #cbd5e0;
 		--code-background: #1f2631;
@@ -58,7 +58,7 @@ body {
 	background: var(--background);
 	padding: 0 2rem;
 	margin: auto;
-	max-width: 70ch;
+	max-width: 85ch;
 	text-align: left;
 	word-wrap: break-word;
 	overflow-wrap: break-word;
